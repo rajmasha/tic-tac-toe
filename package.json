@@ -9,8 +9,9 @@
   "scripts": {
     "dev": "bun --watch index.ts",
     "build": "tsup ./src/index.ts --format cjs,esm --dts",
-    "test": "bun --watch test",
-    "lint": "tsc"
+    "test": "bun test",
+    "lint": "tsc",
+    "release": "changeset publish"
   },
   "keywords": [
     "tic tac toe",
