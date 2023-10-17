@@ -1,5 +1,12 @@
 # tic-tac-toe
 
+## 0.1.4
+
+### Patch Changes
+
+- c3866de: - Fix extension from js to cjs for main file
+  - Include files field in package.json to include only needed files in package
+
 ## 0.1.3
 
 ### Patch Changes
