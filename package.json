@@ -1,6 +1,6 @@
 {
   "name": "tic-tac-toe",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "tic-tac-toe is a TypeScript library for creating an instance of the game Tic Tac Toe with useful methods to make a move, undo a move, check game status, check if there is a winner, reset the game and much more.",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -12,7 +12,11 @@
     "test": "bun --watch test",
     "lint": "tsc"
   },
-  "keywords": ["tic tac toe", "game", "typescript"],
+  "keywords": [
+    "tic tac toe",
+    "game",
+    "typescript"
+  ],
   "author": "Raj Asha",
   "license": "MIT",
   "devDependencies": {
