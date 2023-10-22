@@ -11,6 +11,7 @@
     "build": "tsup ./src/index.ts --format cjs,esm --dts",
     "test": "bun test",
     "lint": "tsc",
+    "changeset": "bunx changeset",
     "release": "changeset publish"
   },
   "keywords": [
