@@ -1,5 +1,11 @@
 # tic-tac-toe
 
+## 0.2.0
+
+### Minor Changes
+
+- 0fbae04: Remove tests folder from build and update README to include instructions
+
 ## 0.1.4
 
 ### Patch Changes
