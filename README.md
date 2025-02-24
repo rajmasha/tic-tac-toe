@@ -30,10 +30,10 @@ bun add @rajmasha/tic-tac-toe
 Import the library into your project and start using its functions:
 
 ```
-// esm (import)
+// esm
 import { TicTacToe } from '@rajmasha/tic-tac-toe';
 
-// cjs (require)
+// cjs
 const { TicTacToe } = require('@rajmasha/tic-tac-toe');
 
 const game = new TicTacToe();
