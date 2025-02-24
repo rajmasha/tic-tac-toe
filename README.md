@@ -1,6 +1,6 @@
 # tic-tac-toe
 
-tic-tac-toe is a headless typeScript library! It provides an easy-to-use set of methods to manage and manipulate Tic Tac Toe games in your applications. This library can simplify the process of working with Tic Tac Toe game logic.
+**tic-tac-toe** is a **headless typeScript library!** It provides an easy-to-use set of methods to manage and manipulate Tic Tac Toe games in your applications. This library can simplify the process of working with Tic Tac Toe game logic.
 
 ## Features
 
@@ -30,10 +30,10 @@ bun add @rajmasha/tic-tac-toe
 Import the library into your project and start using its functions:
 
 ```
-// esm
+// esm (import)
 import { TicTacToe } from '@rajmasha/tic-tac-toe';
 
-// cjs
+// cjs (require)
 const { TicTacToe } = require('@rajmasha/tic-tac-toe');
 
 const game = new TicTacToe();
